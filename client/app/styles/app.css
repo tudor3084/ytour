@@ -1,3 +1,40 @@
+
+
 html, body {
   margin: 20px;
 }
+
+
+div.login {
+    height : 300px;
+
+    box-shadow: 0px 0px 3px #EAEAEA;
+    border-radius: 20px;
+
+    padding: 30px;
+    
+}
+
+
+div.login span.fa {
+
+    color: #3b5998;
+
+    font-size: 70px;
+
+}
+
+div.login div.option {
+
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+div.login h2 {
+
+    text-align: center;
+
+}
+
+
